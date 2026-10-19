@@ -1,2 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee" version="6.0">
+  <display-name>JSP Pure Dictionary</display-name>
+</web-app>
+
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns="https://jakarta.ee/xml/ns/jakartaee" version="6.0"><display-name>English Vietnamese Dictionary</display-name></web-app>
